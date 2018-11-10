@@ -7,3 +7,6 @@
 [submodule "MyTunes"]
 	path = MyTunes
 	url = https://github.com/mbishram/myTunes/blob/master/README.md
+[submodule "myTunes"]
+	path = myTunes
+	url = https://github.com/mbishram/myTunes
