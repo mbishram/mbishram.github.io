@@ -4,3 +4,6 @@
 [submodule "RANA-Cons"]
 	path = RANA-Cons
 	url = https://github.com/mbishram/RANA-Cons
+[submodule "myTunes"]
+	path = myTunes
+	url = https://github.com/mbishram/myTunes
