@@ -1,3 +1,6 @@
 [submodule "Acme"]
 	path = Acme
 	url = https://github.com/mbishram/Acme
+[submodule "RANA-Cons"]
+	path = RANA-Cons
+	url = https://github.com/mbishram/RANA-Cons
