@@ -10,3 +10,9 @@
 [submodule "myTunes"]
 	path = myTunes
 	url = https://github.com/mbishram/myTunes
+[submodule "HTML"]
+	path = HTML
+	url = https://github.com/mbishram/HTML
+[submodule "CSS"]
+	path = CSS
+	url = https://github.com/mbishram/CSS
