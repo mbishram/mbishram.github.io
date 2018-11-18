@@ -16,3 +16,6 @@
 [submodule "CSS"]
 	path = CSS
 	url = https://github.com/mbishram/CSS
+[submodule "BlurEffect"]
+	path = BlurEffect
+	url = https://github.com/mbishram/BlurEffect
