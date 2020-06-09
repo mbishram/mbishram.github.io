@@ -13,3 +13,6 @@
 [submodule "BlurEffect"]
 	path = BlurEffect
 	url = https://github.com/mbishram/BlurEffect
+[submodule "MoviewApp"]
+	path = MoviewApp
+	url = https://github.com/mbishram/movie-app/tree/website
